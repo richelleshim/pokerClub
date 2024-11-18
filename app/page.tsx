@@ -6,7 +6,6 @@ import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
 import type { NextPage } from "next";
 import Head from "next/head";
-import Link from "next/link";
 
 const Home: NextPage = () => {
   return (

@@ -3,7 +3,6 @@ import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 
 import Image from "next/image";
-import Link from "next/link";
 
 const Hero = () => {
   useGSAP(() => {
@@ -26,7 +25,7 @@ const Hero = () => {
       >
         <h1 className="text-8xl font-bold mb-4">POKER CLUB AT UCLA</h1>
         <p className="text-xl max-w-2xl text-center ">
-          UCLA's Premier Poker Group
+          UCLA&#39;s Premier Poker Group
         </p>
         {/* <Link
           href="/join"
