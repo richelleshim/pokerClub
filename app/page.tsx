@@ -1,5 +1,6 @@
 import About from "@/components/About";
 import Acknowledgements from "@/components/Acknowledgements";
+import AnimationContainer from "@/components/AnimationContainer";
 import Events from "@/components/Events";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
@@ -24,6 +25,7 @@ const Home: NextPage = () => {
         <About />
         <Events />
         <Acknowledgements />
+        <AnimationContainer />
       </main>
       <Footer />
     </>
