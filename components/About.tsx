@@ -151,7 +151,7 @@ const About = () => {
           <div id="text" className="opacity-0">
             <p className="text-lg text-gray-100 leading-relaxed">
               Poker Club at UCLA is more than just a group of people that play
-              poker on Saturdays- it&&#39;s a space for members to learn, grow,
+              poker on Saturdays- it&#39;s a space for members to learn, grow,
               and explore. Poker Club is where strategy meets skill, psychology
               meets probability, and competition meets friendships. Founded in
               2024, Poker Club has become one of the most active clubs on

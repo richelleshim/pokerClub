@@ -6,8 +6,8 @@ import Image from "next/image";
 const Footer = () => {
   const links = [
     { label: "Home", href: "/" },
-    { label: "About", href: "/about" },
-    { label: "Events", href: "/events" },
+    // { label: "About", href: "/about" },
+    // { label: "Events", href: "/events" },
     { label: "Join Us", href: "/join" },
   ];
 
@@ -15,7 +15,7 @@ const Footer = () => {
     {
       icon: <EmailIcon />,
       label: "Email",
-      content: "pokerclub@ucla.edu",
+      content: "uclapokergroup@gmail.com",
     },
     {
       icon: <InstagramIcon />,

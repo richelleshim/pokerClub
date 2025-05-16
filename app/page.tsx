@@ -25,7 +25,7 @@ const Home: NextPage = () => {
         <About />
         <Events />
         <Acknowledgements />
-        <AnimationContainer />
+        {/* <AnimationContainer /> */}
       </main>
       <Footer />
     </>
